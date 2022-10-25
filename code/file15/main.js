@@ -45,8 +45,8 @@ function doubleInteger(i) {
 
 // Write a function to split a string and convert it into an array of words.
 
-// function stringToArray(string){
+function stringToArray(string){
 
-//     return string.trim().split(" ");
+    return string.trim().split(" ");
   
-//   }
+  }
