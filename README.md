@@ -1,7 +1,7 @@
 # Code War Challeges
 Code war challeges updated daily
 
-![alt tag](download.png)
+![alt tag](downloads.png)
 
 ## How It's Made:
 
