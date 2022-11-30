@@ -5,10 +5,6 @@
 
 
 
-// Thoughts 
-
-
-
 
 // clever clode
 
