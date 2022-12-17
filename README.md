@@ -11,7 +11,7 @@ Using only JS to find solutions to a variety of challeges.
 
 ## Optimizations
 
-By completing a few challeges per day I assure myself I am interview ready. 
+By completing challeges I assure myself I am interview ready. 
 
 ## Lessons Learned:
 
