@@ -1,4 +1,4 @@
-# Code War Challeges!
+# Code war Challeges!
 Code war challeges updated daily
 
 ![alt tag](downloads.png)
